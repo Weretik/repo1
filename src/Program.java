@@ -13,8 +13,8 @@ public class Program {
            System.out.println(num);
        }
 
-
-
+        String name = "Vitaliy";
+        System.out.println(name);
     }
 
 }
