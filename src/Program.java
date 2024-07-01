@@ -20,4 +20,8 @@ public class Program {
         System.out.println(age);
     }
 
+    public static void Foo(){
+        System.out.println("Hello World");
+    }
+
 }
