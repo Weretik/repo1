@@ -15,6 +15,9 @@ public class Program {
 
         String name = "Vitaliy";
         System.out.println(name);
+
+        byte age = 25;
+        System.out.println(age);
     }
 
 }
